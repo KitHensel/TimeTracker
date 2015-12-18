@@ -1,14 +1,14 @@
 {
-  "name": "",
-  "description": "",
-  "client": "",
+  "name": "Time Tracker",
+  "description": "Simple time tracker app",
+  "client": "Coke",
   "realm": "ais",
   "dbid": "",
   "username": "",
   "password": "",
   "token": "",
-  "origin": "",
+  "origin": "https://github.com/KitHensel/TimeTracker.git",
   "jsBundlePrefix": "main",
   "cssBundlePrefix": "styles",
-  "authors": []
+  "authors": ["kithensel@gmail.com"]
 }
